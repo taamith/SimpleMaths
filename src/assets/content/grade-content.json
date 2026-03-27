@@ -1,0 +1,14 @@
+{
+  "UKG": [
+    {"id": "ukg-1", "title": "Count with Fruits", "type": "Math", "points": 10, "estimatedMinutes": 8},
+    {"id": "ukg-2", "title": "Alphabet Tracing", "type": "English", "points": 10, "estimatedMinutes": 10}
+  ],
+  "Grade1": [
+    {"id": "g1-1", "title": "Two Digit Addition", "type": "Math", "points": 15, "estimatedMinutes": 12},
+    {"id": "g1-2", "title": "Family and My Home", "type": "EVS", "points": 15, "estimatedMinutes": 15}
+  ],
+  "Grade2": [
+    {"id": "g2-1", "title": "Word Building", "type": "English", "points": 20, "estimatedMinutes": 15},
+    {"id": "g2-2", "title": "Measurement Basics", "type": "Math", "points": 20, "estimatedMinutes": 18}
+  ]
+}
